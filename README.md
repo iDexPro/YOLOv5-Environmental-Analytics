@@ -13,10 +13,10 @@ This project aims to enhance the experience of park visitors by detecting whethe
 
 ## Team Members:
 
-Lim Kai Peng, Speed, Chu Yanni Sennett Charis, Muhammad Raimi B Hasri, Wee Jun Jie Desmond
+Ainsley Chang, Sng Zhi Hao, Tang Sze Chuan Marcus, Leong Jun Wei Dexter
 
 ## Supervisor:
 
-Mr Patrick Wang
+Mr Seow Khee Wei
 
 <img width="562" height="462" alt="image" src="https://github.com/user-attachments/assets/2ce901c7-59d1-4b56-8d58-032dad7d4532" />
